@@ -1,0 +1,13 @@
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/02_abilities.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/05_person_skills.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/Robert_matches.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/Roberta_similarity_matrix2.npy filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/bert_job_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/bert_matches.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/final_model_comparison.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/job_entities_v2.pkl filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/merge_resume.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/ner.csv filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/roberta_job_embeddings.npy filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/roberta_job_embeddings2.npy filter=lfs diff=lfs merge=lfs -text
+All[[:space:]]Necessary[[:space:]]files[[:space:]]for[[:space:]]code/tfidf_baseline/tfidf_model_comparison.csv filter=lfs diff=lfs merge=lfs -text
