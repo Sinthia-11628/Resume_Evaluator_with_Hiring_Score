@@ -1,0 +1,55 @@
+{
+    "skills": [
+        "android",
+        "communication",
+        "computer science",
+        "computer vision",
+        "database",
+        "deep learning",
+        "machine learning",
+        "mysql",
+        "php",
+        "python"
+    ],
+    "education": [],
+    "languages": [
+        "Bangla"
+    ],
+    "certifications": [],
+    "projects": [],
+    "experience_years": 2,
+    "experience_entities": [
+        {
+            "text": "2026",
+            "label": "DATE"
+        },
+        {
+            "text": "2020",
+            "label": "DATE"
+        },
+        {
+            "text": "2018",
+            "label": "DATE"
+        },
+        {
+            "text": "2016",
+            "label": "DATE"
+        },
+        {
+            "text": "2025",
+            "label": "DATE"
+        },
+        {
+            "text": "2018-2020",
+            "label": "DATE"
+        },
+        {
+            "text": "2023",
+            "label": "DATE"
+        },
+        {
+            "text": "February 01, 2002",
+            "label": "DATE"
+        }
+    ]
+}

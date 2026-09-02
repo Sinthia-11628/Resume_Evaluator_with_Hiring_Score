@@ -1,0 +1,13 @@
+# Generated model artifacts and large evaluation exports
+All Necessary files for code/*.npy
+All Necessary files for code/*.npz
+All Necessary files for code/*.pkl
+All Necessary files for code/*.joblib
+All Necessary files for code/ner.csv
+All Necessary files for code/05_person_skills.csv
+All Necessary files for code/02_abilities.csv
+All Necessary files for code/merge_resume.csv
+All Necessary files for code/final_model_comparison.csv
+All Necessary files for code/bert_matches.csv
+All Necessary files for code/Robert_matches.csv
+All Necessary files for code/tfidf_baseline/*.csv

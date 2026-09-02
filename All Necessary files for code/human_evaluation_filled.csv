@@ -1,0 +1,101 @@
+model,category,job_title,similarity_score,skill_score,final_score,label,human_label
+TF-IDF Baseline,java developer,Database Engineer,0.2123797685676325,0.2335164835164835,0.2155502758099601,Weak,0
+Sentence-RoBERT,sr it specialist desktop support,IT Support Specialist & Build Engineer,0.69277203,0.8405006418485238,0.7149313,Average,1
+DistilRoBERTa,front end web developer,"AngularJS,HTML5 and CSS Front End Developer",0.7636362910270691,0.0035005834305717,0.649616003036499,Average,1
+TF-IDF Baseline,network infrastructure administrator,Lead Linux Engineer,0.2001959122564933,0.055350553505535,0.1784691084438496,Weak,1
+TF-IDF Baseline,user experience designer uxd ued xd ixd,DISPOSITION TRAINEE,0.1337219612073924,0.0192307692307692,0.1165482824108989,Weak,0
+Sentence-RoBERT,lead java developer,JAVA/J2EE developer ,0.6683657,0.0013140604467805,0.568308,Average,1
+TF-IDF Baseline,sr. python developer,Database Engineer,0.1336004939289073,0.0266343825665859,0.1175555772245591,Weak,0
+Sentence-RoBERT,it support technician,Sr. Network Engineer,0.693609,0.3540372670807453,0.64267325,Average,1
+TF-IDF Baseline,project manager,Lua developer,0.2473356243294126,0.0011682242990654,0.2104105143248605,Weak,0
+TF-IDF Baseline,java pim integration lead,Sr. Java J2EE Developer,0.2318742108392721,0.1333333333333333,0.2170930792133812,Weak,1
+DistilRoBERTa,ignacio lopez,BA Recon GL,0.6357293128967285,0.1714770797962648,0.5660914778709412,Average,0
+TF-IDF Baseline,business analyst,Business Analyst,0.24208404960517,0.5475728155339806,0.2879073644944916,Weak,1
+Sentence-BERT,senior database and systems administrator,Oracle DBA,0.5723811,0.0035460992907801,0.48705584,Weak,1
+DistilRoBERTa,junior sql server database administrator,SQL Server DBA,0.6741065382957458,0.006060606060606,0.5738996863365173,Average,1
+DistilRoBERTa,sr. technical writer,Training Administrator,0.5040909051895142,0.0017211703958691,0.4287354648113251,Weak,0
+DistilRoBERTa,internet investigations,Information Security Analyst,0.556466817855835,0.0001979414093428,0.4730264842510223,Weak,1
+DistilRoBERTa,6 month it generalist contractor,Information Security Analyst,0.6886036396026611,0.5017814726840855,0.6605802774429321,Average,1
+Sentence-RoBERT,sr consultant it security,"Director, Information Security ",0.6559043,0.9434628975265018,0.6990381,Average,1
+TF-IDF Baseline,independent it contractor,Analyst,0.1537033819216856,0.2727272727272727,0.1715569655425237,Weak,0
+Sentence-BERT,java j2ee developer,Senior Enterprise Java Developer,0.62057865,0.0023529411764705,0.5278448,Average,1
+DistilRoBERTa,amanda kessler,Project Manager,0.6491748690605164,0.0012787723785166,0.5519904494285583,Average,0
+Sentence-BERT,frank group recruitment group,Project Manager  Project Office Management ,0.61444616,0.0277777777777777,0.5264459,Average,0
+Sentence-RoBERT,it infrastructure security analyst,Connectivity Engineer,0.6627729,0.2330434782608695,0.5983135,Average,1
+Sentence-RoBERT,john hopkins university,User Experience Designer,0.6558543,0.0025641025641025,0.5578608,Average,0
+DistilRoBERTa,information systems security officer isso,Security Analyst,0.6214984059333801,0.5773584905660377,0.6148774027824402,Average,1
+TF-IDF Baseline,python developer,Software Test Engineer,0.2410585688667366,0.030648330058939,0.209497033045567,Weak,0
+TF-IDF Baseline,sr. project manager sr. project manager sr. project manager,Client Care Advocate,0.163949285904857,0.0120481927710843,0.1411641219347911,Weak,0
+TF-IDF Baseline,network administrator,Sr. Active Directory and Identity Management professional,0.2081575814961385,0.0009778357235984,0.1770806196302575,Weak,1
+Sentence-BERT,kitchen staff prep dishwashing delivery meal driver,Graphic Designer,0.6349709,0.0307692307692307,0.54434067,Average,0
+DistilRoBERTa,elisabeth demaria,Business Development Analyst,0.6253239512443542,0.0042674253200568,0.5321654677391052,Average,0
+Sentence-RoBERT,network administrator,Sr. Network Engineer,0.74049217,0.062111801242236,0.6387351,Average,1
+Sentence-RoBERT,technology liaison analyst,Infrastructure Manager,0.6362846,0.0098298676748582,0.54231644,Average,1
+Sentence-BERT,sr. etl informatica developer,Solutions Architect-Enterprise Information Management,0.6906928,0.0037593984962406,0.5876528,Average,1
+DistilRoBERTa,security officer,Customer Service Team Lead ,0.5880140066146851,0.0052724077328646,0.5006027817726135,Average,0
+TF-IDF Baseline,it project manager,Scrum Master/Project Management,0.1931194402468327,0.3076923076923077,0.210305370363654,Weak,1
+Sentence-BERT,web developer,Front-End Developer ,0.6756804,0.0297029702970297,0.5787838,Average,1
+DistilRoBERTa,network engineer,Network Analyst,0.540268063545227,0.000928505106778,0.4593671262264251,Weak,0
+Sentence-RoBERT,sub team leader ux designer visual designer ui developer jr,Release & Build Manager - CodeSealer ,0.4171045,0.0003371544167228,0.35458943,Weak,1
+Sentence-BERT,program project manager,Infrastructure Project Manager ,0.6028205,0.0029239766081871,0.51283604,Average,0
+Sentence-BERT,full stack java developer,Sr. Java Developer,0.5693077,0.0201342281879194,0.48693168,Weak,1
+Sentence-RoBERT,sr. python developer,DevOps/SysAdmin Engineer,0.6284773,0.001081081081081,0.53436786,Average,1
+TF-IDF Baseline,project administrative coordinator,Research Assistant,0.1698967019903313,0.0023952095808383,0.1447714781289074,Weak,1
+Sentence-BERT,java full stack developer,Senior Java Web Developer,0.7077576,0.0246913580246913,0.6052977,Average,0
+DistilRoBERTa,database administrator,Need 2 Oracle Apps DBA with Goldengate,0.6804662942886353,0.0043859649122807,0.5790542960166931,Average,1
+Sentence-RoBERT,it director graphic designer mga2,Infrastructure Manager,0.6562698,0.0139886578449905,0.55992764,Average,0
+DistilRoBERTa,front end developer graphic design,"Manager, Content Strategy",0.7084309458732605,0.082777036048064,0.6145828366279602,Average,1
+DistilRoBERTa,principal financial group,"Java Architect Job opportunity at California,San Diego",0.7271358966827393,0.0213270142180094,0.6212645769119263,Average,1
+TF-IDF Baseline,senior java full stack developer,Senior Java Spring Developer - looking for Top Talent,0.2303881292892481,0.0067796610169491,0.1968468590484033,Weak,1
+TF-IDF Baseline,odiljon sharipov,FULL-TIME opportunity for  Technical Project manager,0.1618514962295444,0.1428571428571428,0.1590023432236842,Weak,1
+Sentence-BERT,it security analyst,Information Security Consultant - Chicago Based,0.5704303,0.0016308779559662,0.48511037,Weak,1
+Sentence-RoBERT,front end software developer,Senior Software Engineer,0.62420064,0.0380952380952381,0.53628486,Average,0
+TF-IDF Baseline,manager systems network administrator desktop support exchange office,Systems Administrator,0.1784458541419495,0.0145631067961165,0.1538634420400746,Weak,1
+DistilRoBERTa,database administrator,Java/J2EE Analyst Developer ,0.5825403928756714,0.0012247397428046,0.4953430593013763,Weak,0
+Sentence-BERT,krupa levinson,Project Manager,0.6807157,0.0071556350626118,0.5796817,Average,1
+Sentence-RoBERT,customer service representative iii,Call Center Representative I,0.7257693,0.0528374105508404,0.62482953,Average,1
+TF-IDF Baseline,it product manager,Product Manager Content Services,0.1767717393665574,0.0004547521600727,0.1503241912855847,Weak,0
+DistilRoBERTa,john r. harris jr.,Project Manager,0.7109113931655884,0.0990783410138248,0.6191364526748657,Average,0
+TF-IDF Baseline,it program manager,Infrastructure Project Manager ,0.2216468642200613,0.0073099415204678,0.1894963258151222,Weak,1
+TF-IDF Baseline,front end web developer,UX / Front-End Developer,0.213016420691617,0.75,0.2935639575878744,Weak,0
+TF-IDF Baseline,database management specialist,Sr. SQL Server DBA,0.3275447497194403,0.0239520958083832,0.2820058516327817,Weak,1
+DistilRoBERTa,it systems administrator,SAP CRM Developer with ERMS ,0.6421102285385132,0.126865671641791,0.564823567867279,Average,1
+Sentence-RoBERT,project coordinator,Executive Assistant - Purchasing Department,0.57486546,0.0007304601899196,0.48874524,Weak,1
+Sentence-RoBERT,frederick,Business Integration Specialist,0.61663723,0.6820871436256052,0.6264547,Average,1
+Sentence-RoBERT,abe khalifeh,Project Manager,0.6180254,0.5,0.6003216,Average,0
+DistilRoBERTa,warren,User Support Technician,0.6133170127868652,0.0009660280148124,0.5214643478393555,Average,1
+Sentence-RoBERT,us epa cyber security engineering team lead,Security Content Researcher,0.66779834,0.0008841732979664,0.56776124,Average,1
+Sentence-BERT,support escalation engineer fte,Customer Success/Support Engineer,0.61585504,0.3261538461538461,0.57239985,Average,0
+TF-IDF Baseline,sr. python developer,Web Developer (Intern) ,0.1557863437545156,1.0,0.2824183921913382,Weak,1
+DistilRoBERTa,dedicated it analyst,IT Support Analyst,0.6709961891174316,0.7327958537287648,0.6802661418914795,Average,1
+Sentence-BERT,jr. project manager jr. project manager,Scrum Master / Website Development Project Manager,0.65576124,0.0006234413965087,0.5574906,Average,1
+Sentence-BERT,developer developer,RUBY ON RAILS DEVELOPER,0.45853844,0.0128755364806866,0.39168903,Weak,0
+TF-IDF Baseline,housekeeper housekeeper,Personal Assistant,0.3396767138015577,0.0056818181818181,0.2895774794585967,Weak,1
+Sentence-RoBERT,sharepoint administrator,System Administrator,0.5219972,0.0028901734104046,0.44413117,Weak,1
+Sentence-RoBERT,technical project manager,Technology Project Manager,0.67732763,0.9863866199922208,0.72368646,Average,0
+TF-IDF Baseline,sr. machine learning developer,Java Tech Lead,0.1734240057647408,0.0147368421052631,0.1496209312158191,Weak,0
+Sentence-RoBERT,cory roberts,Programmer/ Analyst,0.59299904,1.0,0.65404916,Average,1
+Sentence-RoBERT,it security operations analyst,Infrastructure Manager,0.64134073,0.0003780718336483,0.5451963,Average,1
+TF-IDF Baseline,it security analyst assessor, Senior IT Security Analyst - Threat Management,0.1861654222840041,0.8820459290187892,0.2905474982942219,Weak,1
+Sentence-BERT,freelance front end web developer,Web Designer,0.62113345,0.0246913580246913,0.5316672,Average,0
+Sentence-BERT,front end developer,"AngularJS,HTML5 and CSS Front End Developer",0.61258054,0.0070011668611435,0.52174366,Average,1
+TF-IDF Baseline,python developer,Perl/Java J2EE contract,0.2099934789475732,0.0129474485910129,0.1804365743940891,Weak,0
+TF-IDF Baseline,sr. python developer,Java Developer,0.2988267546829867,0.00067521944632,0.2541040243974867,Weak,1
+Sentence-RoBERT,azure devops administrator consultant,Systems Administrator,0.6526749,0.0007874015748031,0.5548918,Average,1
+Sentence-BERT,information security analyst, Senior IT Security Lead (SIEM / IDS),0.5899719,0.0019252984212552,0.5017649,Average,1
+Sentence-RoBERT,web development manager," Technical Lead - Java Scripts, HTML5,CSS",0.52065426,0.0186567164179104,0.44535464,Weak,0
+Sentence-BERT,senior database analyst,SQL Server DBA,0.5352958,0.0151515151515151,0.45727417,Weak,1
+Sentence-RoBERT,glen burnie,Web Developer - Back / Front,0.62494135,0.1428571428571428,0.55262876,Average,1
+Sentence-BERT,intelligence analyst,Desktop Support / IT Technicians - Start Next Week!,0.6580388,0.0436397400185701,0.5658789,Average,1
+Sentence-RoBERT,sr. ui developer,Front End Web Developer,0.7142978,1.0,0.75715315,Strong,0
+Sentence-RoBERT,principal it support specialist principal it support specialist principal it support specialist,Infrastructure Manager,0.63090295,0.9587901701323251,0.680086,Average,1
+TF-IDF Baseline,taylor,Teller Supervisor,0.3388611202455902,0.0012106537530266,0.2882135502717056,Weak,1
+Sentence-RoBERT,customer satisfaction inside sales account management,Customer Success Manager,0.63830656,0.0009009009009009,0.5426957,Average,0
+DistilRoBERTa,sr. java full stack developer,Web Developer,0.3853636980056762,0.0078125,0.3287310302257538,Weak,1
+Sentence-RoBERT,java jee developer,Junior developer,0.681203,0.0016920473773265,0.5792764,Average,1
+TF-IDF Baseline,managed it support administrator,Wintel Engineer,0.2464422703006684,0.1950078003120124,0.23872709980237,Weak,1
+Sentence-RoBERT,tatiana villaflor,Web Designer,0.6725795,0.0246913580246913,0.5753963,Average,0
+Sentence-BERT,java j2ee developer,Sr. Java Developer,0.5894898,0.0067114093959731,0.5020731,Average,1
+Sentence-BERT,ui developer ui developer ui developer,Senior Java Web Developer,0.7286101,0.015432098765432,0.6216334,Average,1
+Sentence-BERT,robert half,Software Development Project Manager,0.68688226,0.1639004149377593,0.608435,Average,1
+Sentence-RoBERT,senior ux developer,"Web Developer - JavaScript AJAX HTML - Vancouver, British Columbia",0.6926931,0.0065811122079631,0.58977634,Average,1
