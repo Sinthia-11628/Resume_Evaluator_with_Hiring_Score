@@ -1,9 +1,9 @@
 
-# Automatic CV Evaluator and Job Matcher 📄💼
+# Automatic CV Evaluator and Job Matcher 
 
 An end-to-end NLP-powered application that evaluates resumes against an industry-standard scoring rubric, maps candidate profiles to job descriptions using multiple state-of-the-art transformer models, performs semantic skill-gap analysis, and hosts an interactive web dashboard via **Gradio**.
 
-## 🚀 Project Overview
+## Project Overview
 
 Finding the right candidate or matching your resume to a dream job is a tedious process. This project automates CV evaluation and job description matching using a hybrid approach combining **lexical rules**, **custom NER (Named Entity Recognition)** with **spaCy**, and **Semantic Search** via Deep Learning sentence embeddings.
 
@@ -18,7 +18,7 @@ Finding the right candidate or matching your resume to a dream job is a tedious 
 - **Explainable AI (XAI) Summary:** Explains how scores were computed and why a specific transformer model was selected as the best match.
 - **Gradio Interactive UI:** An elegant, fully functional web interface where users can upload PDFs (using **PyMuPDF** & **Tesseract OCR** for scanned documents) and immediately view real-time analysis.
 
-## 🛠️ System Architecture & Workflow
+## System Architecture & Workflow
 
 1. **Data Ingestion & Cleaning:** Consolidated resume and job datasets (e.g., ESCO taxonomy, fake job postings) to prepare robust training and baseline data.
 2. **Custom Entity Extraction:** Utilized **spaCy** phrase matchers and rule-based keyword matching to extract skills, tools, roles, domains, and certifications.
@@ -28,7 +28,7 @@ Finding the right candidate or matching your resume to a dream job is a tedious 
 
 ---
 
-## 💻 Installation & Setup
+## Installation & Setup
 
 To run this project locally, clone the repository and install the dependencies:
 
@@ -66,7 +66,7 @@ Download the spaCy model:
 python -m spacy download en_core_web_sm
 ```
 
-## 📊 Evaluation Metrics
+## Evaluation Metrics
 
 We evaluated our AI system's matching capabilities against ground-truth human annotations:
 - **Accuracy:** ~55%
@@ -76,7 +76,7 @@ We evaluated our AI system's matching capabilities against ground-truth human an
 
 Our analysis showed that **Sentence-RoBERTa** and **Sentence-BERT** consistently capture deep semantic matching far better than traditional keyword-based **TF-IDF Baseline** pipelines.
 
-## 🖥️ Gradio Web UI Dashboard
+## Gradio Web UI Dashboard
 
 The web app contains several diagnostic tabs:
 - **Summary:** High-level compatibility summary and extraction health parameters.
@@ -87,5 +87,5 @@ The web app contains several diagnostic tabs:
 - **Learning Plan:** Dynamically generated roadmap checklist to cover identified technical deficits.
 - **Model Dashboard:** Technical performance breakdown of all 4 tested NLP architectures.
 
-## 🤝 Contribution
+## Contribution
 Contributions, issues, and feature requests are welcome!
